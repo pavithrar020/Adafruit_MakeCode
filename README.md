@@ -59,5 +59,3 @@ This repository contains `.uf2` firmware files designed for the Adafruit Circuit
 - **CapTouchCounter**: Add visual feedback using LEDs for each touch input.  
 - **TrumpetToolboxCScale**: Expand the range of notes or integrate a song-playing mode.  
 - **Blinky**: Include additional LED animations or interactive controls for customization.
-
-These projects provide a hands-on introduction to the capabilities of the Circuit Playground Express, making them excellent for both learning and creative experimentation.
